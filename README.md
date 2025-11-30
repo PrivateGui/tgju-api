@@ -1,4 +1,4 @@
-# TGJU.ir ✨ Unofficial API Documentation
+# TGJU.org ✨ Unofficial API Documentation
 
 > ⚡️ This guide documents findings from reverse engineering the [tgju.ir](https://www.tgju.org/) API, providing live Iranian exchange rates, precious metals, and economic info.  
 > 🚨 **Note:** This is not an official or public API. Use with caution regarding legal, ethical, and reliability concerns.
