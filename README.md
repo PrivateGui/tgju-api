@@ -8,7 +8,7 @@
 ## ⚙️ Base API Endpoint
 
 ```http
-GET https://call3.tgju.org/ajax.json?rev={REV_CODE}
+GET https://call3.tgju.org/ajax.json?rev={sS6c6AGKSb5ba24j7ZZmhqj6ohg1z5qoIzCKE9nfC6jLfPOLLHFN7n27Po5J}
 ```
 
 - `rev`: Appears to be a session, signature, or anti-scraping value. If changed, results or access may differ.
